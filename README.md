@@ -1,7 +1,7 @@
 # 2019_TKU_Machine_learning
 PyLineSearcher.py    
 >Implement algorithms and test, Golden Section Search and Fibonacci Search.    
-
+---
 PyOptimizer.py                    : Implement optimization algorithm based on PyLineSearcher.py and test.   
 
 PyMidterm_2-LayerNN.py            : Training a Two-input and Three-input XOR or XNOR 2-layer neural network based on PyOptimizer.py.    
