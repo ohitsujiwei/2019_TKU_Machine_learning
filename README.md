@@ -1,6 +1,6 @@
 # 2019_TKU_Machine_learning
 PyLineSearcher.py    
->>Implement algorithms and test, Golden Section Search and Fibonacci Search.    
+>Implement algorithms and test, Golden Section Search and Fibonacci Search.    
 
 PyOptimizer.py                    : Implement optimization algorithm based on PyLineSearcher.py and test.   
 
